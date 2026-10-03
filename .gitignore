@@ -1,0 +1,6 @@
+#configurações locais
+.env
+
+#banco de dados local
+*.sql
+#arquivos do sistema operacional
